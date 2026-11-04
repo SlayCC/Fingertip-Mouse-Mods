@@ -83,6 +83,6 @@ Distributed under the Creative Commons License. See `LICENSE.txt` for more infor
 
 For any requests or suggestions, SlayCC on Discord or u/SlayCC on reddit.
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/SlayCC/Fingertip-Mouse-Mods](https://github.com/SlayCC/Fingertip-Mouse-Mods)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
