@@ -75,7 +75,7 @@ Currently, these are the Mice I have and have modded
 <!-- LICENSE -->
 ## License
 
-Distributed under the Creative Commons License. See `LICENSE.txt` for more information.
+Distributed under the CC0-1.0 License. My work is free for anyone to do what they please. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
