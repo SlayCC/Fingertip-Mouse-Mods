@@ -44,6 +44,13 @@ Currently, these are the Mice I have and have modded
 		<li>Shell normal orientation with supports
 	</ul>
 	<br>
+	<a href="Keychron%20M4/M4 Light.stl" width="80"><img src="Images/M4 Light.jpg" alt="M4 Light">
+	<h3>M4 Light</h3> </a>
+	This is a weight reduced version of the original shell, and a skeleton base. Reduces weight by like 5 grams or so.<br>
+	<ul>
+		<li>Clicks and side buttons are the same (or print another set)</li>
+		<li>Base and Shell normal orientation with supports
+	</ul>
 	
 </details>
 
