@@ -46,7 +46,7 @@ Currently, these are the Mice I have and have modded
 	<br>
 	<a href="Keychron%20M4/M4 Light.stl" width="80"><img src="Images/M4 Light.jpg" alt="M4 Light">
 	<h3>M4 Light</h3> </a>
-	This is a weight reduced version of the original shell, and a skeleton base. Reduces weight by like 5 grams or so.<br>
+	This is a weight reduced version of the original shell, and a skeleton base. Reduces weight by like 4 grams or so.<br>
 	<ul>
 		<li>Clicks and side buttons are the same (or print another set)</li>
 		<li>Base and Shell normal orientation with supports
@@ -59,6 +59,15 @@ Currently, these are the Mice I have and have modded
 	<a href="VXE%20R1%20SE%2B/Vxe%20R1%20Se%2B%20Ftip%20Mod.step" width="80"><img src="Images/VXE.jpg" alt="VXE R1 Asym">
 	<h3>VXE R1 Asym</h3> </a>
 	Clicks from u/LEGENTOASTER design. Shell is 2 part screwed together by the base screws. Shape is similar to the asym but even wider at 59mm. Made this because most mods for the Mouse has the side buttons too far forward making the sensor position further back from the grip. This solves that problem by putting the buttons further back.<br>
+	<ul>
+		<li>Print The Clicks Sideways on the bed with supports (Middle side on bed)</li>
+		<li>Side buttons Laying down with Normal Supports (The knobs touching the bed)</li>
+		<li>Top and Bottom shell normal orientation with supports
+	</ul>
+	<br>
+	<a href="VXE%20R1%20SE%2B/Vxe%20R1%20SE%20Asym.step" width="80"><img src="Images/R1%20Asym.jpg" alt="VXE R1 Asym">
+	<h3>VXE R1 Asym</h3> </a>
+	Similar to the Keychron Asym but taller since it is a full mouse mod. Shape is similar to the Fenrir Asym.<br>
 	<ul>
 		<li>Print The Clicks Sideways on the bed with supports (Middle side on bed)</li>
 		<li>Side buttons Laying down with Normal Supports (The knobs touching the bed)</li>
