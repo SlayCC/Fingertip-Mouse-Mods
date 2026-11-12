@@ -17,9 +17,18 @@ Currently, these are the Mice I have and have modded
 <!-- GETTING STARTED -->
 ## Keychron M4 Mods
 <details>
+	<a href="Keychron%20M4/Keychron%20Ultra%20Light.step" width="80"><img src="Images/UltraLight.jpg" alt="Ultra Light">
+	<h3>M4 Ultra Light</h3> </a>
+	The lightest and smallest model at 28 grams, shape is similar to the HSK Pro. This is my main mouse currently, although some might not find it wide enough, it fits my pen grip style.<br>
+	<ul>
+		<li>Print The Clicks Sideways on the bed with supports (Middle side on bed)</li>
+		<li>Side buttons Laying down with Normal Supports (The knobs touching the bed)</li>
+		<li>Shell normal orientation with supports
+	</ul>
+	<br>
 	<a href="Keychron%20M4/Keychron%20M4%20Hex%20Mod.step" width="80"><img src="Images/Hex.jpg" alt="Hex Mini">
 	<h3>Hex Mini</h3> </a>
-	Original mod, shape is slightly thinner than the HSK Pro in width 52mm at sensor position, keeping most of the shape of the Original keychron m4 but without the dip in the sides, this gives that pen grip feel without beeing to narrow. This is also the mod I use the most. <br>
+	Original mod, shape is slightly thinner than the HSK Pro in width 52mm at sensor position, keeping most of the shape of the Original keychron m4 but without the dip in the sides, this gives that pen grip feel without beeing to narrow. <br>
 	<ul>
 		<li>Print The Clicks Flat on the bed (Uses the bed texture)</li>
 		<li>Side buttons Laying down with Normal Supports (The knobs touching the bed)</li>
@@ -57,7 +66,7 @@ Currently, these are the Mice I have and have modded
 ## VXE R1 SE+
 <details>
 	<a href="VXE%20R1%20SE%2B/Vxe%20R1%20Se%2B%20Ftip%20Mod.step" width="80"><img src="Images/VXE.jpg" alt="VXE R1 Asym">
-	<h3>VXE R1 Asym</h3> </a>
+	<h3>VXE R1 SE CrazyLight</h3> </a>
 	Clicks from u/LEGENTOASTER design. Shell is 2 part screwed together by the base screws. Shape is similar to the asym but even wider at 59mm. Made this because most mods for the Mouse has the side buttons too far forward making the sensor position further back from the grip. This solves that problem by putting the buttons further back.<br>
 	<ul>
 		<li>Print The Clicks Sideways on the bed with supports (Middle side on bed)</li>
